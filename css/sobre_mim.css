@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 2000px;
+    margin:0 auto;
+    padding:0 1%;
+}
+
+header{
+    padding: 20px 0;
+}
+
+.logo{
+    width: 50%;
+
+}
+
+.menu{
+    padding-top: 50px;
+    width: 40%;
+    text-align: right;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+.menu a{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.SobreMim{
+    margin: 50px;
+    max-width: 730px;
+    display: inline;
+    width: 25%;
+    float: left;
+    color: rgb(224, 224, 212);
+    font-size: 40px;
+}   
+.article h1{
+    margin-top: 60px;
+    display: inline;
+    width: 60%;
+    float: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: rgb(224, 224, 212);
+    font-size: 40px;
+    text-align: center;
+}
+   
